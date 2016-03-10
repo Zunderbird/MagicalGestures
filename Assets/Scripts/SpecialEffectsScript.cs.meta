@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0c189fde551409c4ba3e3bb7617123c6
+timeCreated: 1457536622
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - TrailPrefab: {fileID: 172400, guid: dc6cefe405e8fed47b7d755ee591d907, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
